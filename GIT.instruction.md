@@ -1,14 +1,14 @@
-# Инструкция по работе с GIT
-
-*  Создание репозитория
-```sh
-git init
-```
-* Проверить статус текущего репозитория
-```sh
-git status
-```
-* Начать отслеживание файла в репозитории
+POCKOREE
+ETOBI
+SRABOTALO
+YSTAL
+DELAAI
+VERNO
+NO
+ON VMESTO CONFLICTA
+PROSTO ZAMENAET
+HOTIA VSE PO INSTRUKZII
+NADEISI ETO SRABORTAET
 ```sh
 git add "namefile"
 ```
